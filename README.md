@@ -1,1 +1,1 @@
-# Peer-Grade-Assignment-Python-Data-Science-Project
+I have completed the two previous yfinance and web scraping labs. In this assignment I upload screenshots of my code and results. I will also be reviewing the submission for my peers and grading their work.
